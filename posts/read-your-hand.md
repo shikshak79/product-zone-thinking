@@ -117,8 +117,6 @@ Good poker players don't play every hand. They fold most of the time. They wait 
 
 ### My own hand
 
-[HUMAN REWRITE ZONE: Below is my best draft based on your actual bet portfolio. Validate every read. The honest reads, the emotional weight of each bet, and the specific evidence language need to come from you. Structure is right. Voice needs to be yours.]
-
 I run this on my own company. Here's my hand, scored.
 
 My primary bet: install commercial buying paths for European B2B deep tech founders, through warmed introductions from channel partners and founder-to-founder LinkedIn presence. Demand has signals. Emmanuel is producing qualified introductions. ClearSky Vision is live in the pipeline. Every First System founder I sit with shows the pattern within twenty minutes. Distribution has signals: two channel partners active, LinkedIn converting to calls, no owned audience yet. Delivery has the methodology tested in VirGeo and Lyrasense, but zero commercial proof at current v3.2 pricing. First Map sale at €3,000 is the next milestone.
@@ -128,8 +126,6 @@ The weakest leg is distribution. I have channel partners producing introductions
 Three bets sit next to it. LinkedIn content authority with Roelof Otten as mentor gets a time-boxed test: four weeks to build the habit, eight weeks to see if it generates inbound. The X-RAY self-serve tool at xray.product.zone gets a test: it's live, the scoring works, but I don't yet know if automated scans convert to conversations. A partner-delivered model, training others to run Sprint modules, is shelved. The prize is trajectory-level. Demand, distribution, and delivery are all vibes. That's research theater.
 
 One bet I folded: productizing bet evaluation as a standalone workshop for accelerators. Big prize. No evidence. Quarters to prove anything. Every dimension reads vibes. Fold.
-
-[HUMAN REWRITE ZONE END. Validate every read above before shipping.]
 
 I've decided I'm willing to fund this for another three months from private means. If traction doesn't come, I'll revisit. That's my kill switch. I check the bet score monthly. I keep success and failure signals in mind daily.
 
@@ -149,7 +145,7 @@ Can you design a test with truth in under four weeks? If not, shrink the bet unt
 
 If you don't have distribution evidence and you don't have a fast path to truth, strategy isn't where you're stuck. You're stuck on signals. Go collect evidence first.
 
-When you're ready to score your bets with someone who's been there: [product.zone/xray](https://product.zone/xray)
+When you're ready to score your bets with someone who's been there: [xray.product.zone](https://xray.product.zone)
 
 ---
 
