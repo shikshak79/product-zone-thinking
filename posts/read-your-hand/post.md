@@ -1,3 +1,12 @@
+---
+slug: read-your-hand
+title: "Read Your Hand"
+excerpt: "Every founder runs five bets. The good ones know which to fold. A poker metaphor for bet identification and prioritization."
+cover_image: images/cover.jpg
+published_at: 2026-04-13
+status: published
+---
+
 # Read Your Hand
 ## Every founder runs five bets. The good ones know which to fold.
 
